@@ -1,5 +1,5 @@
 # USAGE
-# python simple-equal.py -i moon.jpg
+# python simple-equal.py -i ../moon.jpg
 
 # import packages
 import argparse

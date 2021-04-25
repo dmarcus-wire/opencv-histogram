@@ -3,3 +3,4 @@ argparse
 opencv-python
 opencv-contrib-python
 jupyter
+scikit-image

@@ -1,5 +1,5 @@
 # USAGE
-# python adaptive-equal.py
+# python adaptive-equal.py -i ../moon.jpg
 
 # import packages
 import argparse
