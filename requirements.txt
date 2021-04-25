@@ -1,0 +1,5 @@
+matplotlib
+argparse
+opencv-python
+opencv-contrib-python
+jupyter
