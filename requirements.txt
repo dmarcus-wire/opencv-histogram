@@ -4,3 +4,5 @@ opencv-python
 opencv-contrib-python
 jupyter
 scikit-image
+imutils
+numpy
