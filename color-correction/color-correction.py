@@ -2,8 +2,9 @@
 # python color-correction.py -r reference.jpg -i 01.jpg
 
 # why adjust lighting conditions? why do color correction?
-# consistent standardized lighting and lighting across the entire shoot
-# if you want the color to look the same
+# consistent standardized lighting and lighting across the entire image processing pipeline
+# lessens requirements on ML, skip gathering training data, annotating it, etc.
+# simplifies, minimizes hyperparameters, guassian blur, etc.
 # color perception can skew the original image color (i.e. hued)
 # image processing pipelines against a gold-standard image
 
